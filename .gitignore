@@ -4,3 +4,5 @@ ext4fuse
 *.o
 .*.swp
 /test/logs
+log.txt
+.vscode/*
